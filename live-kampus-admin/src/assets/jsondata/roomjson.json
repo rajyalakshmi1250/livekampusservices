@@ -1,0 +1,16 @@
+[
+    {
+            
+        "roomName": "1 BHK Flat Thane west",
+        "roomAddress": "Panchpakhadi, Near New India Co Operative Bank.",
+        "roomArea": "400sqft",
+        "roomDeposit":"4000",
+        "roomRent":"3000",
+        "roomType":"AC",
+        "wi-fi":"Free wi-fi",
+        "available":"yes",
+        "fullFurnished":"full Furnished"
+
+       
+    }
+]
